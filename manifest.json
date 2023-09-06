@@ -1,0 +1,30 @@
+{
+	"name": "Mi primer PWA",
+	"short_name": "MyPWA",
+	"description": "Aplicación demo",
+	"background_color": "#FFF",
+	"theme_color": "#10161F",
+	"orientation": "portrait",
+	"display": "standalone",
+	"start_url": "./Vinden – The Urban Transport Solution.html?utm_source=web_app_manifest",
+	"scope": "./",
+	"lang": "es-MX",
+	"icons":[
+		{
+			"src": "./logo/logo_gqgdgs_c_scale,w_1052.png",
+			"sizes": "1052x1060",
+			"type": "image/png"
+		},
+		{
+			"src": "./logo/logo_gqgdgs_c_scale,w_200.png",
+			"sizes": "200x202",
+			"type": "image/png"
+		},
+		{
+			"src": "./logo/logo.png",
+			"sizes": "1024x1024",
+			"type": "image/png"
+		}
+	]
+}
+
